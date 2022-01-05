@@ -1,4 +1,4 @@
-# commerce_heroku
+# E-commerce auctions
 An eBay-like e-commerce auction site that allows users to post auction listings, place bids on listings, comment on those listings, and add listings to a watchlist.
 
 - Create Listing: Users can create a new listing by specifying a title for the listing, a text-based description, and what the starting bid should be. Users can also optionally provide a URL for an image for the listing and/or a category (e.g. Fashion, Toys, Electronics, Home, etc.).
